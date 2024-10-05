@@ -6,7 +6,7 @@ import Image from "next/image";
 import { BsMoonFill, BsSunFill } from "react-icons/bs";
 
 // Dynamic Image Imports for Next.js
-import img1 from "@/resources/images/FotoNosotros (1).jpg";
+
 import img2 from "@/resources/images/FotoNosotros (1).png";
 import img3 from "@/resources/images/FotoNosotros (2).jpg";
 import img4 from "@/resources/images/FotoNosotros (3).jpg";
@@ -16,7 +16,7 @@ import img7 from "@/resources/images/FotoNosotros (6).jpg";
 import img8 from "@/resources/images/FotoNosotros (7).jpg";
 import img9 from "@/resources/images/FotoNosotros (8).jpg";
 
-const images = [img1, img2, img3, img4, img5, img6, img7, img8, img9];
+const images = [img2, img3, img4, img5, img6, img7, img8, img9];
 
 const startDate = new Date("2022-10-01T00:00:00");
 
